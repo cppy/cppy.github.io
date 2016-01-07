@@ -46,7 +46,7 @@ flattr_button:
 # Post sharing icons
 show_sharing_icons: true
 # Change to 'true' to enable individual icons
-share_facebook: false
+share_facebook: true
 share_twitter: false
 share_googleplus: false
 share_linkedin: false
