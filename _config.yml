@@ -1,8 +1,8 @@
 # Site settings
 title:       cppy
 email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      cppy
+description: "less is more"
 baseurl:     ""
 url:         "http://cppy.github.io/"
 date_format: "%b %-d, %Y"
