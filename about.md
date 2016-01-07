@@ -1,6 +1,6 @@
 ---
 layout: page
-title: yuanlong
+title: 袁
 permalink: /about/
 tags: about
 ---
