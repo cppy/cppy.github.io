@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 袁
+title: 绝迹
 permalink: /about/
 tags: about
 ---
