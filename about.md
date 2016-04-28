@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:  绝迹
 permalink: /about/
 tags: about
 ---
