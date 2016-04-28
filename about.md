@@ -5,4 +5,4 @@ permalink: /about/
 tags: about
 ---
 
->#less is more
+>less is more
