@@ -133,3 +133,4 @@ Happy writing.
 ---
 
 [^1]: Important information that may distract from the main text can go in footnotes.
+
