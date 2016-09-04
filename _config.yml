@@ -4,7 +4,7 @@ email:       jueji5@gmail.com
 author:      cppy
 description: "less is more"
 baseurl:     ""
-url:         "http://cppy.github.io/"
+url:         "https://cppy.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
