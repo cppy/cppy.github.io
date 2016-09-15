@@ -6,5 +6,3 @@ tags: about
 ---
 
 >less is more
->
->
