@@ -4,7 +4,7 @@ title:  绝迹
 permalink: /about/
 tags: about
 ---
-### Cherish the survival time on earth
+### cherish the survival time on earth
 
 ### less is more
 
