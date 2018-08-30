@@ -1,0 +1,30 @@
+sudo apt-get update
+sudo apt-get install build-essential
+wget http://www.softether-download.com/files/softether/v4.27-9668-beta-2018.05.29-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.27-9668-beta-2018.05.29-linux-x64-64bit.tar.gz
+(http://www.softether-download.com/cn.aspx?product=softether)
+
+tar xvf softether-vpnserver-v4.27-9668-beta-2018.05.29-linux-x64-64bit.tar.gz
+cd vpnserver
+make
+
+1
+1
+1
+
+./vpnserver start   (./vpnserver stop)
+
+./vpncmd
+ServerPasswordSet
+
+(
+vi /etc/rc.local  
+
+/root/vpnserver/vpnserver start
+exit 0
+)
+------------------------------------
+
+softether-vpn_admin_tools
+http://www.softether-download.com/files/softether/v4.27-9668-beta-2018.05.29-tree/Windows/Admin_Tools/VPN_Server_Manager_and_Command-line_Utility_Package/softether-vpn_admin_tools-v4.27-9668-beta-2018.05.29-win32.zip
+SecureNAT open
+L2TP/IPSec open
