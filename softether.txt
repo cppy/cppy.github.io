@@ -14,6 +14,8 @@ make
 ./vpnserver start   (./vpnserver stop)
 
 ./vpncmd
+1
+
 ServerPasswordSet
 
 (
