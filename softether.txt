@@ -30,3 +30,14 @@ softether-vpn_admin_tools
 http://www.softether-download.com/files/softether/v4.27-9668-beta-2018.05.29-tree/Windows/Admin_Tools/VPN_Server_Manager_and_Command-line_Utility_Package/softether-vpn_admin_tools-v4.27-9668-beta-2018.05.29-win32.zip
 SecureNAT open
 L2TP/IPSec open
+
+---------------------------------------------
+./vpncmd
+ServerPasswordSet 
+HubCreate VPN
+Hub VPN
+SecureNatEnable
+UserCreate test
+UserPasswordSet test
+IPsecEnable
+Pre Shared Key for IPsec
